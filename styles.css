@@ -9,7 +9,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-header, footer {
+header {
   width: 100%;
   text-align: center;
   background-color: #98c889;
@@ -24,6 +24,12 @@ header h1 {
 
 footer {
   font-size: 10pt;
+  width: 100%;
+  text-align: center;
+  color: #98c889;
+  margin-top: 15px
+  font-family: "Silkscreen";
+  padding: 0px 0px;
 }
 
 main {
