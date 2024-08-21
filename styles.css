@@ -39,7 +39,7 @@ main {
   grid-template-columns: repeat(8, 40px);
   grid-template-rows: repeat(8, 40px);
   gap: 2px;
-  margin-bottom: 5vh;
+  margin-bottom: 5px;
 }
 
 .cell {
@@ -63,14 +63,14 @@ main {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-bottom: 2vh;
+  margin-bottom: 5px;
 }
 
 #bpm-controls {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   width: 100%;
   justify-content: center;
 }
